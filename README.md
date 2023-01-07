@@ -1,1 +1,1 @@
-# StriverA2Z
+# DSA PRATICE
